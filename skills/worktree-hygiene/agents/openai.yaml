@@ -1,0 +1,7 @@
+interface:
+  display_name: "Worktree Hygiene"
+  short_description: "Audit worktrees before safe cleanup"
+  default_prompt: "Use $worktree-hygiene to audit this repository's worktrees and propose safe cleanup without removing anything."
+
+policy:
+  allow_implicit_invocation: true

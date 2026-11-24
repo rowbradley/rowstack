@@ -1,0 +1,16 @@
+{
+  "name": "rowstack",
+  "metadata": {
+    "description": "Public collection of agent skills for Claude Code and Codex."
+  },
+  "owner": {
+    "name": "rowbradley"
+  },
+  "plugins": [
+    {
+      "name": "rowstack",
+      "source": "./",
+      "description": "Original agent skills for Claude Code and Codex."
+    }
+  ]
+}

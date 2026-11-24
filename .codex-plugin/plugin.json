@@ -1,0 +1,20 @@
+{
+  "name": "rowstack",
+  "version": "0.1.0",
+  "description": "Original agent skills for Claude Code and Codex covering credential intake, Git worktree audits, planning, implementation briefs, data communication, visualization, interloop PM sessions, and quick web research.",
+  "author": {
+    "name": "rowbradley",
+    "url": "https://github.com/rowbradley"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "rowstack",
+    "shortDescription": "Original agent skills for Claude Code and Codex.",
+    "longDescription": "A collection of standalone agent skills for Claude Code and Codex covering model-blind credential intake, safe Git worktree hygiene, cross-model planning, context-free implementation briefs, data communication, quantitative visualization, interloop PM sessions, and quick web research.",
+    "developerName": "rowbradley",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use the relevant rowstack skill for this task."
+  }
+}

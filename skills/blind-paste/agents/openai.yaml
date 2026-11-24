@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blind Paste"
+  short_description: "Store or hand off secrets model-blind via secret card or hidden dialog"
+  default_prompt: "Use $blind-paste to capture a missing local credential and merge it into an ignored env file without putting it in chat."
